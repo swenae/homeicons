@@ -1,2 +1,3 @@
 # homeicons
-This is a icon set for use in homeautomation front- and backends.
+
+This is a icon set for use in home automation, connected living and other purposes. Use it to create your web front- and backends or applications. 
